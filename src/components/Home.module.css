@@ -1,0 +1,26 @@
+img {
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+.heading {
+    font-family: sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.btn{
+    height: 40px;
+    width: 250px;
+    border-radius: 9px;
+    margin-top: 50px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: aqua;
+    list-style: none;
+    border: 0.5px solid hwb(0 0% 100% / 0.112);
+    margin-left: 33px;
+
+}
